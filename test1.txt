@@ -1,0 +1,10 @@
+ Volume in drive P is Citrix
+ Volume Serial Number is 28B0-494E
+
+ Directory of P:\Users\Msrivastava\Desktop\New folder\GitSampleProject
+
+19/09/2018  14:43    <DIR>          .
+19/09/2018  14:43    <DIR>          ..
+19/09/2018  14:43                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,852,765,184 bytes free
