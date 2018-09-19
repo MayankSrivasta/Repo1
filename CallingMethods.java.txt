@@ -1,0 +1,22 @@
+public class CallingMethods {
+
+	void callingUsingObject(){
+		System.out.println("hello world");
+	}
+	static int a2;
+	
+	
+	static void staticKeyword(){
+	System.out.println("hello world with static keyword");
+	}
+	
+	public static void main(String[] args) {
+	
+		CallingMethods a=new CallingMethods();
+		a.callingUsingObject();
+	
+	staticKeyword();
+
+	}
+
+}
